@@ -6,7 +6,7 @@
   "homepage": "https://niharikaarora1997.github.io/calendar-demo",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "moment": "^2.22.2",
     "rc-color-picker": "^1.2.6",
     "rc-time-picker": "^3.3.1",
